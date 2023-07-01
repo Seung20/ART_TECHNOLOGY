@@ -1,0 +1,2 @@
+#이 수업은 Intro_to_visual_media_programming이다.
+# pygame 사용
